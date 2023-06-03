@@ -1,4 +1,4 @@
 a=200
-b=20
+b=100
 print(a*b)  
 print(a+b)
